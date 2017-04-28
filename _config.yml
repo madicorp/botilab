@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Botilab Description.
 address:  M20, Cité Hamo5 Guédiawaye DAKAR 15000 SENEGAL
 slogan: Créateur de succès
+our_values: Transparence, Excellence, Disponibilité, Simplicité
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madicorp.github.io/botilab" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Botilab
